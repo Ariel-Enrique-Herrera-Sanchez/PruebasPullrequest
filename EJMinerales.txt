@@ -1,0 +1,11 @@
+(cambio de signo es *(-1))
+1:inicializar forma aleatoria celi(0,20)
+2:bucle hasta total Minerales=0 ,n pescar==30
+Simulación:
+por cada paso
+-Mostrar info
+-nº paso
+-totalMineralesP….
+-Posición(i)
+-Dirección (+/-)
+-decide si recolectar
